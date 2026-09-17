@@ -33,4 +33,6 @@ Voltage across collector-emitter	VCE = VC − VE
 Base current	IB	
 Collector current	IC	
 Current gain	β = IC / IB	
+<img width="997" height="630" alt="Screenshot 2026-09-08 134520" src="https://github.com/user-attachments/assets/9f640d65-2f66-4c06-b574-af5fe8421f78" />
+
 Result: Thus, the BJT with voltage divider bias was designed using LTspice and the output was simulated and observed.
